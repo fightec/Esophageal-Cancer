@@ -27,19 +27,19 @@
                     "癌症治療",
                     "繁體中文",
                     "克莫抗癌注射劑",
-                    "肺癌",
-                    "肝癌",
                     "乳癌",
+                    "肝癌",
+                    "肺癌",
                     "食道癌",
                     "癌症藥物介紹",
                     "藥物教程"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -61,11 +61,11 @@
                     "癌症藥物介紹"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
+                    "Esophageal Cancer",
                     "Pancreatic Cancer",
-                    "Esophageal Cancer"
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -521,11 +521,11 @@
                     "轉移性膀胱內型細胞腫瘤"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -537,8 +537,8 @@
                     "胃癌",
                     "癌症治療",
                     "希思鉑定注射液",
-                    "肺癌",
                     "肝癌",
+                    "肺癌",
                     "CISPLATIN INJECTION 1MG/ML",
                     "乳腺癌",
                     "作用機制",
@@ -549,11 +549,11 @@
                     "治療適應症"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -766,17 +766,17 @@
                     "網路資源"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -793,17 +793,17 @@
                     "醫療政策"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -880,17 +880,17 @@
                     "病患照護"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -909,17 +909,17 @@
                     "生存品質"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -941,17 +941,17 @@
                     "生物學"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -970,17 +970,17 @@
                     "癌症階段"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1000,17 +1000,17 @@
                     "醫療設備"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1028,17 +1028,17 @@
                     "放射線治療"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1057,17 +1057,17 @@
                     "生活方式"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1083,17 +1083,17 @@
                     "醫藥新知"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1116,17 +1116,17 @@
                     "細胞損傷"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1142,17 +1142,17 @@
                     "醫學知識"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1174,17 +1174,17 @@
                     "呼吸困難"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             }
         ]
