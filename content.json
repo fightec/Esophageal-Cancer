@@ -787,17 +787,42 @@
                     "魚油"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "放射治療（電療）對癌症患者的副作用",
+                "author": "Cancerfree",
+                "no": 2440,
+                "date": "2024/10/31 23:07:00",
+                "tags": [
+                    "副作用",
+                    "癌症治療",
+                    "放射治療",
+                    "電療"
+                ],
+                "website": [
                     "Brain tumor",
-                    "Oral Cancer"
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
+                    "Colorectal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
