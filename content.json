@@ -872,11 +872,11 @@
                     "癌症藥物介紹"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -920,6 +920,132 @@
                     "抗惡性腫瘍劑",
                     "輝瑞大藥廠股份有限公司",
                     "治療適應症"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "阿樂癌注射液０．５公絲/公撮 (ABIPLATIN INJECTION 0.5MG/ML) 介紹",
+                "author": "Cancerfree",
+                "no": 2341,
+                "date": "2024/11/11 03:10:00",
+                "tags": [
+                    "藥物介紹",
+                    "CISPLATIN",
+                    "癌症治療",
+                    "阿樂癌",
+                    "癌症藥物介紹",
+                    "轉移性睪丸腫瘤",
+                    "膀胱內轉移型細胞腫瘤",
+                    "轉移性卯巢腫瘤"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "西伯拉丁注射液 (CISPLATIN INJECTION \"DBL\") 對於腺癌的應用",
+                "author": "Cancerfree",
+                "no": 2342,
+                "date": "2024/11/11 03:09:00",
+                "tags": [
+                    "胃癌",
+                    "抗癌",
+                    "西伯拉丁注射液",
+                    "藥物治療",
+                    "乳癌",
+                    "肝癌",
+                    "肺癌",
+                    "食道癌",
+                    "腺癌",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "喜賜康注射液0.5毫克/毫升 (CISPLATIN-EBEWE 0.5MG/ML INJECTION)在肺癌、乳癌、食管癌、胃癌與肝癌治療中的使用",
+                "author": "Cancerfree",
+                "no": 2343,
+                "date": "2024/11/11 03:08:00",
+                "tags": [
+                    "胃癌",
+                    "CISPLATIN",
+                    "癌症",
+                    "喜賜康",
+                    "化學療法",
+                    "乳癌",
+                    "肝癌",
+                    "肺癌",
+                    "CISPLATIN-EBEWE 0.5MG/ML INJECTION",
+                    "食道癌",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "普樂得星注射液０．５公絲/公撮 (PLATOSIN INJECTION (0.5MG/ML)) 綜合介紹",
+                "author": "Cancerfree",
+                "no": 2344,
+                "date": "2024/11/11 03:07:00",
+                "tags": [
+                    "抗癌藥物",
+                    "CISPLATIN",
+                    "普樂得星注射液",
+                    "藥物敏感性測試",
+                    "癌症藥物介紹",
+                    "轉移性睪丸腫瘤",
+                    "轉移性卵巢腫瘤",
+                    "民橋企業股份有限公司",
+                    "PHARMACHEMIE B.V."
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "喜賜康注射液０．５公絲/公撮及其在癌症治療中的應用",
+                "author": "Cancerfree",
+                "no": 2345,
+                "date": "2024/11/11 03:06:00",
+                "tags": [
+                    "胃癌",
+                    "抗癌藥物",
+                    "CISPLATIN",
+                    "癌症治療",
+                    "癌症",
+                    "CISOLATIN-EBEWE 0.5MG/ML INJECTION",
+                    "喜賜康",
+                    "腫瘤",
+                    "肝癌",
+                    "肺癌",
+                    "乳腺癌",
+                    "食道癌",
+                    "癌症藥物介紹"
                 ],
                 "website": [
                     "Breast Cancer",
