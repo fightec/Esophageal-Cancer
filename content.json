@@ -86,17 +86,17 @@
                     "PACLITAXEL",
                     "疾病治療",
                     "用藥指南",
-                    "胰臟癌",
                     "乳癌",
+                    "胰臟癌",
                     "臨床研究",
                     "食道癌"
                 ],
                 "website": [
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
                 ]
             },
             {
@@ -136,19 +136,76 @@
                     "癌症治療",
                     "派力杉注射劑",
                     "Paclitaxel Mylan",
-                    "肺癌",
-                    "卵巢癌",
-                    "胰臟癌",
                     "乳癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "胰臟癌",
                     "食道癌",
                     "癌症藥物介紹"
                 ],
                 "website": [
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
+                ]
+            },
+            {
+                "titles": "深入瞭解 \"山德士\"帕瘤鎖注射劑6毫克/毫升",
+                "author": "Cancerfree",
+                "no": 2167,
+                "date": "2024/11/11 09:19:00",
+                "tags": [
+                    "癌症治療",
+                    "藥物治療",
+                    "化學治療",
+                    "山德士",
+                    "肺癌",
+                    "帕瘤鎖",
+                    "卵巢癌",
+                    "胰腺癌",
+                    "乳癌",
+                    "食道癌",
+                    "癌症藥物介紹",
+                    "微管解聚抑制劑"
+                ],
+                "website": [
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
+                ]
+            },
+            {
+                "titles": "全面介紹亞伯杉注射劑 (Abraxane for Injectable Suspension) 在治療肺癌、食管癌、卵巢癌、胃癌、胰臟癌方面的用途",
+                "author": "Cancerfree",
+                "no": 2168,
+                "date": "2024/11/11 09:18:00",
+                "tags": [
+                    "化療",
+                    "癌症治療",
+                    "亞伯杉注射劑",
+                    "乳癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "胰臟癌",
+                    "PACLITAXEL",
+                    "Abraxane for Injectable Suspension",
+                    "食管癌",
+                    "癌症藥物介紹",
+                    "台灣必治妥施貴寶股份有限公司",
+                    "Abraxis Bio Science LLC",
+                    "BAXTER ONCOLOGY GMBH",
+                    "BOLLORE LOGISTICS SINGAPORE PTE. LTD."
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
                 ]
             },
             {
